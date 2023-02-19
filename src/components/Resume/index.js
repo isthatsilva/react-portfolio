@@ -1,10 +1,12 @@
 import React from 'react';
-import Resume from "../../assets/Resume.pdf";
+import PDF from "../../assets/Resume.pdf";
 
-const AboutMe = () => {
-    <section className='my-5 text-background'>
-        <embed id="Resume" src={Resume} width="100%" height="750px"></embed>
-    </section>
+const Resume = () => {
+    return (
+        <section className='my-5 text-background'>
+            <embed id="Resume" src={PDF} width="100%" height="550" />
+        </section>
+    )
 };
 
-export default AboutMe;
+export default Resume;
