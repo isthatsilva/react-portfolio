@@ -1,0 +1,56 @@
+[
+    {
+        "id" : 0,
+        "name": "Local-Brewry-Finder",
+        "description": "A brewery locator.",
+        "technology": "Simple Front-End",
+        "url": "https://isthatsilva.github.io/Project-1---Local-Brewery-Finder/",
+        "github": "https://github.com/isthatsilva/Project-1---Local-Brewery-Finder",
+        "image" : "localbrewery"
+    },
+    {
+        "id" : 1,
+        "name": "Code Quiz",
+        "description": "A JavaScript code quiz",
+        "technology": "Simple Front-End",
+        "url": "https://isthatsilva.github.io/challenge-4-code-quiz/",
+        "github": "https://github.com/isthatsilva/challenge-4-code-quiz",
+        "image" : "codequiz"
+    }, 
+    {
+        "id" : 2,
+        "name": "GetFIT",
+        "description": "A daily exercise tracking application",
+        "technology": "Back-End",
+        "url": "https://getfitapplication.herokuapp.com/",
+        "github": "https://github.com/isthatsilva/GetFIT",
+        "image" : "getfit"
+    },
+    {
+        "id" : 3,
+        "name":"Team Profile Generator",
+        "description": "A command-line application that inputs employee's information",
+        "technology": "Back-End",
+        "url": "https://drive.google.com/file/d/1_Wn5CD-dgoeC_NpVWUOm8HUrc7Gkkf6w/view",
+        "github": "https://github.com/isthatsilva/challenge-10-Team-Profile-Generator",
+        "image" : "teamprofile"
+    },
+    {
+        "id" : 4,
+        "name": "Weather Dashboard",
+        "description": "A weather forecast",
+        "technology": "Simple Front-End",
+        "url": "https://isthatsilva.github.io/challenge-6-weather-dashboard/",
+        "github": "https://github.com/isthatsilva/challenge-6-weather-dashboard",
+        "image" : "weatherimage"
+    },
+    {
+        "id" : 5,
+        "name": "Tech Blog",
+        "description": "A blog site for developers",
+        "technology": "Back-End",
+        "url": "https://challenge14-techblog.herokuapp.com/",
+        "github": "https://github.com/isthatsilva/challenge-14-tech-blog",
+        "image" : "techblog"
+    }
+]
