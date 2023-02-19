@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.39292d62.css",
+    "main.js": "/react-portfolio/static/js/main.6ae22fb0.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/teamprofile.png": "/react-portfolio/static/media/teamprofile.d9fd81955c7287b383d8.png",
+    "static/media/profile.JPG": "/react-portfolio/static/media/profile.4b1e5b80dfb468872884.JPG",
+    "static/media/getfit.png": "/react-portfolio/static/media/getfit.3dae723746d603660574.png",
+    "static/media/techblog.png": "/react-portfolio/static/media/techblog.b1f4d505ea67bffac092.png",
+    "static/media/weatherimage.png": "/react-portfolio/static/media/weatherimage.afd8996ae366b7f1af9e.png",
+    "static/media/localbrewery.png": "/react-portfolio/static/media/localbrewery.13f98885ba6d7fdd90b7.png",
+    "static/media/Resume.pdf": "/react-portfolio/static/media/Resume.66117d8c132d960df939.pdf",
+    "static/media/codequiz.png": "/react-portfolio/static/media/codequiz.1e901f25031f45c2c8ec.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.39292d62.css.map": "/react-portfolio/static/css/main.39292d62.css.map",
+    "main.6ae22fb0.js.map": "/react-portfolio/static/js/main.6ae22fb0.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39292d62.css",
+    "static/js/main.6ae22fb0.js"
+  ]
+}
